@@ -1,0 +1,6 @@
+﻿  AhorcadoPracticaZap580.cpp
+C:\Users\AMK26\source\repos\AhorcadoPracticaZap580\AhorcadoPracticaZap580\AhorcadoPracticaZap580.cpp(16,15): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+C:\Users\AMK26\source\repos\AhorcadoPracticaZap580\AhorcadoPracticaZap580\AhorcadoPracticaZap580.cpp(40,23): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\AMK26\source\repos\AhorcadoPracticaZap580\AhorcadoPracticaZap580\AhorcadoPracticaZap580.cpp(85,27): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\AMK26\source\repos\AhorcadoPracticaZap580\AhorcadoPracticaZap580\AhorcadoPracticaZap580.cpp(103,27): warning C4018: '<': no coinciden signed/unsigned
+  AhorcadoPracticaZap580.vcxproj -> C:\Users\AMK26\source\repos\AhorcadoPracticaZap580\Debug\AhorcadoPracticaZap580.exe
